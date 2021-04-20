@@ -694,7 +694,7 @@ void _main(u32 magic) {
     screen_init();
     timer_init();
     keyboard_init();
-    sound_init();
+    //sound_init();
     generate_sprites();
     music_init();
 
